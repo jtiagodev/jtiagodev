@@ -1,11 +1,7 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm João Tiago - aka [jtiagodev][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+## I'm a Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
@@ -63,14 +59,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="jtiagodev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jtiagodev&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://www.dtrgroup.pt
+[twitter]: https://twitter.com/jtiagopt
+[linkedin]: https://linkedin.com/in/jtiagodev
