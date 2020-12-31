@@ -1,7 +1,7 @@
 ### Hi there, I'm João Tiago - aka [jtiagodev][website] 👋
 
 ## I'm a Developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
