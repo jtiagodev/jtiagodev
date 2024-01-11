@@ -1,9 +1,3 @@
-### Hi there, I'm João Tiago - aka [jtiagodev][website] 👋
-
-## I'm a Developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-
 ### Connect with me:
 
 [<img align="left" alt="jtiagodev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
